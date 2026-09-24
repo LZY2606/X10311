@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Afc.Core/Afc.Core.csproj" />
+    <Project Path="src/Afc.Storage/Afc.Storage.csproj" />
+    <Project Path="src/Afc.Web/Afc.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Afc.Tests/Afc.Tests.csproj" />
+  </Folder>
+</Solution>
