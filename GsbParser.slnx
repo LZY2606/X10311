@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GsbParser.Core/GsbParser.Core.csproj" />
+    <Project Path="src/GsbParser.Storage/GsbParser.Storage.csproj" />
+    <Project Path="src/GsbParser.Web/GsbParser.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GsbParser.Tests/GsbParser.Tests.csproj" />
+  </Folder>
+</Solution>
