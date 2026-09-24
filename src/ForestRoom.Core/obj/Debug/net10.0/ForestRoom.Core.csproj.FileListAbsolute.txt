@@ -1,0 +1,12 @@
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/bin/Debug/net10.0/ForestRoom.Core.deps.json
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/bin/Debug/net10.0/ForestRoom.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/bin/Debug/net10.0/ForestRoom.Core.pdb
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.AssemblyInfoInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.AssemblyInfo.cs
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.csproj.CoreCompileInputs.cache
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.sourcelink.json
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/refint/ForestRoom.Core.dll
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ForestRoom.Core.pdb
+/Users/mac/pro/Pair-wiseGSB/pairwise-gsb-20260919-003312/workspace/1284/runs/B/work/src/ForestRoom.Core/obj/Debug/net10.0/ref/ForestRoom.Core.dll

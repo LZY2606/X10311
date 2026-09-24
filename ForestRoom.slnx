@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ForestRoom.Core/ForestRoom.Core.csproj" />
+    <Project Path="src/ForestRoom.Storage/ForestRoom.Storage.csproj" />
+    <Project Path="src/ForestRoom.Web/ForestRoom.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ForestRoom.Tests/ForestRoom.Tests.csproj" />
+  </Folder>
+</Solution>
