@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AmbiguityForest.Core/AmbiguityForest.Core.csproj" />
+    <Project Path="src/AmbiguityForest.Web/AmbiguityForest.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AmbiguityForest.Tests/AmbiguityForest.Tests.csproj" />
+  </Folder>
+</Solution>
